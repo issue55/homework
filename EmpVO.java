@@ -4,7 +4,7 @@ import java.sql.Date;
 public class EmpVO implements java.io.Serializable{
 	private Integer empno;
 	private String ename;
-	private String job;
+	private String ename;
 	private Date hiredate;
 	private Double sal;
 	private Double comm;
